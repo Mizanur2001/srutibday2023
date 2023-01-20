@@ -1541,7 +1541,6 @@ audio {
 
 .cake-cover {
 	margin-top: 50px;
-	top: 100px;
 }
 
 .message {
@@ -1550,6 +1549,7 @@ audio {
 }
 
 .message p {
+	margin-top: 80px;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 30px;
 	text-transform: uppercase;
